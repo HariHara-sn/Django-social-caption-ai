@@ -1,0 +1,3 @@
+using LLM, end point have field like Instagram, Facebook, Twitter like that.
+System return type of content is give, eg: post, story. for Facebook 
+eg: Business
