@@ -1,3 +1,3 @@
-using LLM, end point have field like Instagram, Facebook, Twitter like that.
-System return type of content is give, eg: post, story. for Facebook 
-eg: Business
+Using an LLM, the endpoint includes fields such as Instagram, Facebook, and Twitter.
+The system returns the type of content, for example Post or Story.
+For Facebook, an example content category is Business.
